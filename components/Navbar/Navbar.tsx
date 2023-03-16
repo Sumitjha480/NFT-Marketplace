@@ -34,14 +34,7 @@ function Navbar() {
       name: "My NFT",
       to: "/mynft",
     },
-    // {
-    //   name: "Blog Create",
-    //   to: "/create_blog",
-    // },
-    // {
-    //   name: "Blog",
-    //   to: "/blogs",
-    // },
+
   ];
   return (
     <nav className="flex flex-col md:flex-row justify-between py-3 border-b border-[#ffffff14] backdrop-blur-[9px] p-3 md:p-5">
