@@ -1,6 +1,6 @@
 Created for 8th Semester BTP Project
 
-#NFT-Marketplace
+# NFT-Marketplace
 A Marketplace to trade/create Non Fungible Tokens(NFTs).
 The smart contracts were deployed on Polygon Network.
 
