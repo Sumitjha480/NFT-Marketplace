@@ -71,10 +71,10 @@ function NFTDetail() {
               <h3 className="text-3xl text-white font-bold">{NFTData.name}</h3>
               <span className="text-white flex my-auto p-2 bg-[#242435] rounded-md">
                 <FaHeart className="mt-1 mr-1" />
-                200
+                0
               </span>
             </div>
-            <span className="text-[#00a3ff]">{NFTData.price}wETH</span>
+            <span className="text-[#00a3ff]">{NFTData.price}Matic</span>
             <span className="text-white font-bold">
               Category <span className="text-[#acacac]"> royalties</span>
             </span>
