@@ -1,10 +1,10 @@
 import React from "react";
-import NFTDetail from "../../components/NFTDetail/NFTDetail";
+import NFTDetails from "../../components/NFTDetail/NFTDetail";
 
 function NFTData() {
   return (
     <div className="container my-8">
-      <NFTDetail />
+      <NFTDetails />
     </div>
   );
 }
